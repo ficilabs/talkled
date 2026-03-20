@@ -1,0 +1,5 @@
+{
+  "name": "Arduino LED Simulator Chatbot",
+  "description": "A simple simulator to control an Arduino LED using natural language commands via a Gemini-powered chatbot.",
+  "requestFramePermissions": []
+}
