@@ -6,6 +6,6 @@ on:
 
 jobs:
   thumbnail:
-    uses: username/repo-kamu/.github/workflows/thumbnail.yml@main
+    uses: ficilabs/automation-thumbnail/.github/workflows/thumbnail.yml@main
     with:
       url: "https://talkled-ficilabs.vercel.app"
