@@ -1,0 +1,11 @@
+name: Use Thumbnail
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  thumbnail:
+    uses: USERNAME/automation-thumbnail/.github/workflows/thumbnail.yml@main
+    with:
+      url: "https://talkled-ficilabs.vercel.app"
